@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">एप्लिकेशन-स्थानीयकरण-प्रदर्शन</string>
+    <string name="app_data">स्थानीयकरण के लिए डेमो ऐप</string>
+    <string name="change_language">भाषा बदलो</string>
+    <string name="setting_language">भाषा चुनिए</string>
+    <string name="text_english">अंग्रेज़ी</string>
+    <string name="text_marathi">मराठी</string>
+    <string name="lbl_cancel">रद्द करना</string>
+    <string name="alert_ok">ठीक</string>
+    <string name="text_hindi">हिंदी</string>
+</resources>

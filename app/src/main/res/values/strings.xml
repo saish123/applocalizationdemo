@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">app-localization-demo</string>
+    <string name="app_data">Demo app for localization</string>
+    <string name="change_language">Change Language</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="setting_language">Select Language</string>
+    <string name="text_english">English</string>
+    <string name="text_marathi">Marathi</string>
+    <string name="lbl_cancel">Cancel</string>
+    <string name="alert_ok">OK</string>
+    <string name="text_hindi">Hindi</string>
+</resources>
