@@ -74,7 +74,7 @@ public class LanguageFragment extends DialogFragment implements View.OnClickList
                     editor.putString("SELECTED_LANGUAGE", AppConstants.APP_HINDI_LOCALE);
                     editor.apply();
                 }
-                AppApplication.getInstance().updateBaseContextLocale(getActivity());
+//                AppApplication.getInstance().updateBaseContextLocale(getActivity());
                 refreshApp();
                 break;
             case R.id.tv_language_cancel:

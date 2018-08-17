@@ -27,7 +27,7 @@ public class MainActivity extends BaseActivity {
             }
         });
 
-        AppApplication.getInstance().updateBaseContextLocale(this);
+//        AppApplication.getInstance().updateBaseContextLocale(this);
 
     }
 
